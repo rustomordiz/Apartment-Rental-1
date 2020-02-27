@@ -44,5 +44,9 @@ namespace Apartment_Rental
 		{
 	
 		}
+		void MainFormLoad(object sender, EventArgs e)
+		{
+	
+		}
 	}
 }

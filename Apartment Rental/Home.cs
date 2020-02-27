@@ -46,5 +46,9 @@ namespace Apartment_Rental
 		{
 	
 		}
+		void Swd_projClick(object sender, EventArgs e)
+		{
+	
+		}
 	}
 }
